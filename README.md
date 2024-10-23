@@ -77,8 +77,8 @@ Epoch: 500/500, loss: 6.555439, correct: 49
 
 ---
 ## Diag
-![Alt text](images/diag.png)
-![Alt text](images/diag-loss.png)
+![Alt text](images/diag.jpg)
+![Alt text](images/diag-loss.jpg)
 
 Epoch: 10/500, loss: 18.334820, correct: 45 \
 Epoch: 20/500, loss: 15.263506, correct: 45\
