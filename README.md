@@ -21,8 +21,8 @@ The files that will be synced are:
 # Task 1.5
 ## Simple
 
-![Alt text](images/simple.png)
-![Alt text](images/simple-loss.png)
+![Alt text](images/simple.jpg)
+![Alt text](images/simple-loss.jpg)
 Epoch: 0/500, loss: 32.972865, correct: 0
 Epoch: 10/500, loss: 32.873761, correct: 31
 Epoch: 20/500, loss: 32.756923, correct: 31
@@ -134,8 +134,8 @@ Epoch: 500/500, loss: 3.385273, correct: 49
 
 ---
 ## Split
-![Alt text](images/split.png)
-![Alt text](images/split-loss.png)
+![Alt text](images/split.jpg)
+![Alt text](images/split-loss.jpg)
 
 Epoch: 10/500, loss: 33.688151, correct: 29
 Epoch: 20/500, loss: 33.286750, correct: 30
@@ -191,8 +191,8 @@ Epoch: 500/500, loss: 10.214309, correct: 50
 
 ---
 ## Xor
-![Alt text](images/xor.png)
-![Alt text](images/xor-loss.png)
+![Alt text](images/xor.jpg)
+![Alt text](images/xor-loss.jpg)
 
 Epoch: 10/500, loss: 31.755551, correct: 39
 Epoch: 20/500, loss: 29.615886, correct: 39
