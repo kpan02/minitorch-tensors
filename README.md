@@ -1,4 +1,8 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/YFgwt0yY)
+MiniTorch is a ground-up implementation of PyTorch, a popular deep learning framework used for building and training neural networks. The project was built from scratch as part of the Machine Learning Engineering course at Cornell Tech, taught by Professor Sasha Rush.
+
+**minitorch-tensors**: This module generalizes scalar autodiff to support tensors: multi-dimensional arrays essential for deep learning. It includes implementations of broadcasting, tensor indexing, and high-order tensor operations like map, zip, and reduce. It also supports autograd over tensor operations, making it possible to define and train neural networks more efficiently.
+
+
 # MiniTorch Module 2
 
 <img src="https://minitorch.github.io/minitorch.svg" width="50%">
